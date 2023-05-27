@@ -5,6 +5,7 @@
   "main": "server.js",
   "scripts": {
     "startDev": "nodemon app.js",
+    "build": "npm install",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
